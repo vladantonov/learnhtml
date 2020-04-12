@@ -25,11 +25,11 @@
 		}
 		#description {
 			text-align: center;
-            color: white;
-        }
-        .fontblackcolor {
-            font-style: italic;
-            font-family: 'Times New Roman', Times, serif;
-            font-size: 40px;
-            color: black;
-        }
+      color: white;
+    }
+    .fontblackcolor {
+        font-style: italic;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;
+        color: black;
+    }
