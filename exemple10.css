@@ -1,0 +1,35 @@
+
+		#main {
+			position: absolute;
+			height: auto;
+			width: 100%;
+			background-color: red;
+		}
+		#title {
+			text-align: center;
+			color: white;
+		}
+		#image {
+			text-align: center;
+			background-color: white;
+		}
+		#img-caption {
+			text-align: center;
+		}
+		#tribute-info {
+			text-align: center;
+		}
+		#tribute-link {
+			text-align: center;
+			color: black;
+		}
+		#description {
+			text-align: center;
+            color: white;
+        }
+        .fontblackcolor {
+            font-style: italic;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 40px;
+            color: black;
+        }
